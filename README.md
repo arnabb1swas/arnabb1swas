@@ -10,10 +10,10 @@
 ### Connect with me:
 
 [<img align="left" alt="arnabb1swas.github.io/ArnabBiswas" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Arnab Biswas | YouTube" width="22px" src="https://raw.githubusercontent.com/arnabb1swas/arnabb1swas/master/ico%20sgv/icons8-play-button-50.svg" />][youtube]
-[<img align="left" alt="arnabbiswas_ | Twitter" width="22px" src="https://raw.githubusercontent.com/arnabb1swas/arnabb1swas/master/ico%20sgv/icons8-twitter-50.svg" />][twitter]
-[<img align="left" alt="arnabbiswas_ | LinkedIn" width="22px" src="https://raw.githubusercontent.com/arnabb1swas/arnabb1swas/master/ico%20sgv/icons8-linkedin-50.svg" />][linkedin]
-[<img align="left" alt="arnabbiswas_ | Instagram" width="22px" src="https://raw.githubusercontent.com/arnabb1swas/arnabb1swas/master/ico%20sgv/icons8-instagram-50.svg" />][instagram]
+[<img align="left" alt="Arnab Biswas | YouTube" width="22px" src="https://raw.githubusercontent.com/arnabb1swas/arnabb1swas/master/icon%20sgv/icons8-play-button-50.svg" />][youtube]
+[<img align="left" alt="arnabbiswas_ | Twitter" width="22px" src="https://raw.githubusercontent.com/arnabb1swas/arnabb1swas/master/icon%20sgv/icons8-twitter-50.svg" />][twitter]
+[<img align="left" alt="arnabbiswas_ | LinkedIn" width="22px" src="https://raw.githubusercontent.com/arnabb1swas/arnabb1swas/master/icon%20sgv/icons8-linkedin-50.svg" />][linkedin]
+[<img align="left" alt="arnabbiswas_ | Instagram" width="22px" src="https://raw.githubusercontent.com/arnabb1swas/arnabb1swas/master/icon%20sgv/icons8-instagram-50.svg" />][instagram]
 
 <br />
 
@@ -21,7 +21,7 @@
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsrepo]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/arnabb1swas/arnabb1swas/master/ico%20sgv/icons8-github-50.svg" />][githubprofile]
-<img align="left" alt="Adobe Premiere Pro 2020" width="26px" src="https://raw.githubusercontent.com/arnabb1swas/arnabb1swas/master/ico%20sgv/006-premier.svg" />
+<img align="left" alt="Adobe Premiere Pro 2020" width="26px" src="https://raw.githubusercontent.com/arnabb1swas/arnabb1swas/master/icon%20sgv/006-premier.svg" />
 [<img align="left" alt="SOLIDWORKS" width="26px" src="https://github.com/arnabb1swas/arnabb1swas/blob/master/SOLIDWORKS.png" />][drone]
 [<img align="left" alt="Termux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][vsrepo]
 <!-- [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
