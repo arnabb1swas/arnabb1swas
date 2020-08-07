@@ -69,7 +69,7 @@
 
 [website]: https://arnabb1swas.github.io/ArnabBiswas/
 [twitter]: https://www.twitter.com/arnabbiswas_
-<!--[youtube]: https://youtube.com/codeSTACKr-->
+[youtube]: https://www.youtube.com/channel/UCnSAFnVuceL75SmKsIjORKg
 [instagram]: https://www.instagram.com/arnabbiswas_
 [linkedin]: https://www.linkedin.com/in/itsarnab
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
