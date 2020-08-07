@@ -77,5 +77,3 @@
 [linkedin]: https://www.linkedin.com/in/itsarnab
 [githubprofile]: https://github.com/arnabb1swas
 [vsrepo]: https://github.com/arnabb1swas?tab=repositories
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
