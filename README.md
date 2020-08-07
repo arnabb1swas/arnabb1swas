@@ -1,4 +1,4 @@
-### Hi there, I'm Arnab Biswas - aka [Alpha_AB][website](https://arnabb1swas.github.io/ArnabBiswas){target="_blank"} 👋
+### Hi there, I'm Arnab Biswas - aka [Alpha_AB][website](https://arnabb1swas.github.io/ArnabBiswas)<target="_blank"> 👋
 
 ## I'm a Student, Developer,Designer and Gamer!
 - 🔭 I’m currently working with [PyCharm, CLion, IntelliJ IDEA][idewebsite]{target="_blank"}
