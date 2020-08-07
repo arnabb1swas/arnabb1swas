@@ -65,7 +65,7 @@
 ---
 -->
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="Arnab Biswas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arnabb1swas&show_icons=true&hide_border=true" />
 
 [website]: https://arnab2128.github.io/ArnabBiswas/
 [twitter]: https://www.twitter.com/arnabbiswas_
