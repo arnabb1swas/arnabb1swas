@@ -1,7 +1,7 @@
-### Hi there, I'm Arnab Biswas - aka [Alpha_AB][website] 👋
+### Hi there, I'm Arnab Biswas - aka [Alpha_AB][website]{target="_blank"} 👋
 
 ## I'm a Student, Developer,Designer and Gamer!
-- 🔭 I’m currently working with [PyCharm, CLion, IntelliJ IDEA][idewebsite]!
+- 🔭 I’m currently working with [PyCharm, CLion, IntelliJ IDEA][idewebsite]{target="_blank"}
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
