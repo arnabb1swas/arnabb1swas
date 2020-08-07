@@ -1,4 +1,4 @@
-### Hi there, I'm Arnab - aka [Alpha_AB][website] 👋
+### Hi there, I'm Arnab Biswas - aka [Alpha_AB][website] 👋
 
 ## I'm a Student, Developer,Designer and Gamer!
 - 🔭 I’m currently working on a [PyCharm, CLion, IntelliJ IDEA][website]!
