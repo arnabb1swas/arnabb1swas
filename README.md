@@ -1,7 +1,7 @@
 ### Hi there, I'm Arnab Biswas - aka [Alpha_AB][website] 👋
 
 ## I'm a Student, Developer,Designer and Gamer!
-- 🔭 I’m currently working on a [PyCharm, CLion, IntelliJ IDEA][website]!
+- 🔭 I’m currently working with [PyCharm, CLion, IntelliJ IDEA][idewebsite]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -68,6 +68,7 @@
 <img align="left" alt="Arnab Biswas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arnabb1swas&show_icons=true&hide_border=true" />
 
 [website]: https://arnabb1swas.github.io/ArnabBiswas/
+[idewebsite]: https://www.jetbrains.com/products.html
 [twitter]: https://www.twitter.com/arnabbiswas_
 [youtube]: https://www.youtube.com/channel/UCnSAFnVuceL75SmKsIjORKg
 [instagram]: https://www.instagram.com/arnabbiswas_
