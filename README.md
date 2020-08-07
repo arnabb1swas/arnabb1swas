@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="arnabb1swas.github.io/ArnabBiswas" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] target="_blank"
+[<img align="left" alt="arnabb1swas.github.io/ArnabBiswas" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Arnab Biswas | YouTube" width="22px" src="https://raw.githubusercontent.com/arnabb1swas/arnabb1swas/master/ico%20sgv/icons8-play-button-50.svg" />][youtube]
 [<img align="left" alt="arnabbiswas_ | Twitter" width="22px" src="https://raw.githubusercontent.com/arnabb1swas/arnabb1swas/master/ico%20sgv/icons8-twitter-50.svg" />][twitter]
 [<img align="left" alt="arnabbiswas_ | LinkedIn" width="22px" src="https://raw.githubusercontent.com/arnabb1swas/arnabb1swas/master/ico%20sgv/icons8-linkedin-50.svg" />][linkedin]
