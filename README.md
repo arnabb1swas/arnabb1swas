@@ -10,10 +10,10 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://www.flaticon.com/authors/freepik" />][instagram]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://raw.githubusercontent.com/arnabb1swas/arnabb1swas/master/ico%20sgv/icons8-play-button-50.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://raw.githubusercontent.com/arnabb1swas/arnabb1swas/master/ico%20sgv/icons8-twitter-50.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://raw.githubusercontent.com/arnabb1swas/arnabb1swas/master/ico%20sgv/icons8-linkedin-50.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://raw.githubusercontent.com/arnabb1swas/arnabb1swas/master/ico%20sgv/icons8-instagram-50.svg" />][instagram]
 
 <br />
 
