@@ -19,7 +19,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsrepo]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/arnabb1swas/arnabb1swas/master/ico%20sgv/icons8-github-50.svg" />][githubprofile]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 <!-- [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
@@ -75,6 +75,6 @@
 [instagram]: https://www.instagram.com/arnabbiswas_
 [linkedin]: https://www.linkedin.com/in/itsarnab
 [githubprofile]: https://github.com/arnabb1swas
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[vsrepo]: https://github.com/arnabb1swas?tab=repositories
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
