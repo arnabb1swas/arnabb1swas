@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] target="_blank"
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://raw.githubusercontent.com/arnabb1swas/arnabb1swas/master/ico%20sgv/icons8-play-button-50.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://raw.githubusercontent.com/arnabb1swas/arnabb1swas/master/ico%20sgv/icons8-twitter-50.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://raw.githubusercontent.com/arnabb1swas/arnabb1swas/master/ico%20sgv/icons8-linkedin-50.svg" />][linkedin]
@@ -68,7 +68,7 @@
 
 <img align="left" alt="Arnab Biswas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arnabb1swas&show_icons=true&hide_border=true" />
 
-[website]: (https://arnabb1swas.github.io/ArnabBiswas) target="_blank"
+[website]: https://arnabb1swas.github.io/ArnabBiswas
 [idewebsite]: https://www.jetbrains.com/products.html
 [twitter]: https://www.twitter.com/arnabbiswas_
 [youtube]: https://www.youtube.com/channel/UCnSAFnVuceL75SmKsIjORKg
