@@ -67,7 +67,7 @@
 
 <img align="left" alt="Arnab Biswas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arnabb1swas&show_icons=true&hide_border=true" />
 
-[website]: https://arnab2128.github.io/ArnabBiswas/
+[website]: https://arnabb1swas.github.io/ArnabBiswas/
 [twitter]: https://www.twitter.com/arnabbiswas_
 <!--[youtube]: https://youtube.com/codeSTACKr-->
 [instagram]: https://www.instagram.com/arnabbiswas_
