@@ -13,7 +13,7 @@
 [<img align="left" alt="Arnab Biswas | YouTube" width="22px" src="https://raw.githubusercontent.com/arnabb1swas/arnabb1swas/master/icon%20sgv/icons8-play-button-50.svg" />][youtube]
 [<img align="left" alt="arnabbiswas_ | Twitter" width="22px" src="https://raw.githubusercontent.com/arnabb1swas/arnabb1swas/master/icon%20sgv/icons8-twitter-50.svg" />][twitter]
 [<img align="left" alt="arnabbiswas_ | LinkedIn" width="22px" src="https://raw.githubusercontent.com/arnabb1swas/arnabb1swas/master/icon%20sgv/icons8-linkedin-50.svg" />][linkedin]
-[<img align="left" alt="arnabbiswas_ | Instagram" width="22px" src="https://raw.githubusercontent.com/arnabb1swas/arnabb1swas/master/icon%20sgv/icons8-instagram-50.svg" />][instagram]
+[<img align="left" alt="arnabbiswas_ | Instagram" width="22px" src="https://raw.githubusercontent.com/arnabb1swas/arnabb1swas/master/icon/639b3dafb544d6f061fcddd2d6686ddb.svg" />][instagram]
 
 <br />
 
