@@ -21,8 +21,8 @@
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsrepo]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/arnabb1swas/arnabb1swas/master/icon/download.svg" />][githubprofile]
-<img align="left" alt="Adobe Premiere Pro 2020" width="26px" src="https://raw.githubusercontent.com/arnabb1swas/arnabb1swas/master/icon/adobe-premiere-pro-599419.svgg" />
-[<img align="left" alt="SOLIDWORKS" width="26px" src="https://raw.githubusercontent.com/arnabb1swas/arnabb1swas/master/icon/603790_solidworks_512x512.svgg" />][drone]
+<img align="left" alt="Adobe Premiere Pro 2020" width="26px" src="https://raw.githubusercontent.com/arnabb1swas/arnabb1swas/master/icon/adobe-premiere-pro-599419.svg" />
+[<img align="left" alt="SOLIDWORKS" width="26px" src="https://raw.githubusercontent.com/arnabb1swas/arnabb1swas/master/icon/603790_solidworks_512x512.svg" />][drone]
 [<img align="left" alt="Termux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][vsrepo]
 <!-- [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
