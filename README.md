@@ -1,10 +1,9 @@
 ### Hi there, I'm [Arnab Biswas][website] 👋
 
-## I'm a Student, Developer,Designer and Gamer!
-- 🔭 I’m currently working with [PyCharm, CLion, IntelliJ IDEA][idewebsite]
+## I'm a Student and a wanna be Backend Developer!
+- 🔭 I’m currently working with Django and wanna become good with nodejs
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Lear more about backend & Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Sing and play Games
 
 ### Connect with me:
@@ -69,7 +68,6 @@
 <img align="left" alt="Arnab Biswas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arnabb1swas&show_icons=true&hide_border=true" />
 
 [website]: https://arnabb1swas.github.io/ArnabBiswas
-[idewebsite]: https://www.jetbrains.com/products.html
 [twitter]: https://www.twitter.com/arnabbiswas_
 [youtube]: https://www.youtube.com/channel/UCnSAFnVuceL75SmKsIjORKg
 [instagram]: https://www.instagram.com/arnabbiswas_
@@ -77,4 +75,3 @@
 [githubprofile]: https://github.com/arnabb1swas
 [vsrepo]: https://github.com/arnabb1swas?tab=repositories
 [drone]: https://github.com/arnabb1swas/Drone_V1.0
-[link]: https://youtu.be/LUwn2e8YoTc
