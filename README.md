@@ -78,16 +78,16 @@
 
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/itsarnab"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.twitter.com/arnabbiswas_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/arnabbiswas_"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://linktr.ee/arnabbiswas"><img src="https://img.icons8.com/fluent/48/000000/link.png"/></a>
+<a target="_blank" href = "https://www.linkedin.com/in/itsarnab"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a target="_blank" href = "https://www.twitter.com/arnabbiswas_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a target="_blank" href = "https://www.instagram.com/arnabbiswas_"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a target="_blank" href = "https://linktr.ee/arnabbiswas"><img src="https://img.icons8.com/fluent/48/000000/link.png"/></a>
 
 </p>
 
 ## ❤ Views and Followers
 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a target="_blank" href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=arnabb1swas">
 </a>
-<a href="https://github.com/arnabb1swas?tab=followers"><img src="https://img.shields.io/github/followers/arnabb1swas?label=Followers&style=social" alt="GitHub Badge"></a>
+<a target="_blank" href="https://github.com/arnabb1swas?tab=followers"><img src="https://img.shields.io/github/followers/arnabb1swas?label=Followers&style=social" alt="GitHub Badge"></a>
