@@ -39,7 +39,7 @@
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/heroku.png"/> </a> 
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/> </a> 
+    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/48/000000/arduino.png"/> </a> 
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/vue-js.png"/> </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> 
