@@ -62,7 +62,7 @@
     <img alt="arnabb1swas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arnabb1swas&show_icons=true&count_private=true&theme=tokyonight" /></a>
 <br/>
 <br/>
-    <img alt="arnabb1swas's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnabb1swas&langs_count=8&count_private=true&layout=compact&theme=tokyonight" /></a>
+    <img alt="arnabb1swas's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnabb1swas&count_private=true&layout=compact&theme=tokyonight" /></a>
 <br/>
 </p>
 <p align="center">
