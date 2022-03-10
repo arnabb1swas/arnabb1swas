@@ -89,7 +89,7 @@
 
 ## ❤ Views and Followers
 
-<a target="_blank" href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a target="_blank" href="https://github.com/arnabb1swas/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=arnabb1swas">
 </a>
 <a target="_blank" href="https://github.com/arnabb1swas?tab=followers"><img src="https://img.shields.io/github/followers/arnabb1swas?label=Followers&style=social" alt="GitHub Badge"></a>
