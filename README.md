@@ -74,6 +74,8 @@
   <br/>
 </p>
 
+<img align="right" alt="Coding" width="400" src="./icon/bg.gif">
+
 ## Connect with me:
 
 <p align="left">
