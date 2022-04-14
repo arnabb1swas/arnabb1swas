@@ -70,7 +70,7 @@
     <img title="Arnab Biswas's streak" alt="arnabb1swas's streak" src="https://github-readme-streak-stats.herokuapp.com?user=arnabb1swas&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
   <br/>
   <br/>
-    <img title="Arnab Biswas's streak" alt="arnabb1swas's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=arnabb1swas&theme=react-dark" />
+    <img title="Arnab Biswas's streak" alt="arnabb1swas's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=arnabb1swas&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
   <br/>
 </p>
 
