@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working as a Backend Dev at **[Easocare](https://github.com/easocare)**
+- 🔭 I’m currently working as a Backend Dev Intern at **[Easocare](https://github.com/easocare)**
 
 - 🌱 I’m currently learning **Algorithms.**
 
