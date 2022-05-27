@@ -88,8 +88,9 @@
 </p>
 
 ## ❤ Views and Followers
-
+<p align="left">
 <a target="_blank" href="https://github.com/arnabb1swas/">
     <img src="https://komarev.com/ghpvc/?username=arnabb1swas&style=flat-square">
 </a>
 <a target="_blank" href="https://github.com/arnabb1swas?tab=followers"><img src="https://img.shields.io/github/followers/arnabb1swas?label=Followers&style=social" alt="GitHub Badge"></a>
+</p>
