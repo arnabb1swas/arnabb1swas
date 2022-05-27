@@ -1,8 +1,8 @@
 <a href="#"><img width="100%" height="auto" src="./icon/bg2.gif" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Arnab Biswas</h1>
-<h3 align="center">I'm a passionate Backend Developer from India.</h3>
-<img align="right" alt="Coding" width="400" src="./icon/sidegif.gif">
+<h1 align=center>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Arnab Biswas</h1>
+<h3 align=center>I'm a passionate Backend Developer from India.</h3>
+<img align=right alt="Coding" width="400" src="./icon/sidegif.gif">
 
 ## 🙋‍♂️ About Me
 
@@ -20,7 +20,7 @@
 
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
+<p align=left> 
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/50/000000/nodejs.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> </a> 
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
@@ -74,9 +74,9 @@
   <br/>
 </p>
 
-<img align="right" alt="Coding" width="400" src="./icon/bg.gif">
+<img align=right alt="Coding" width="400" src="./icon/bg.gif">
 
-<p align="left">
+<p align=left>
 
 ## Connect with me:
 <a target="_blank" href = "https://www.linkedin.com/in/itsarnab"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
