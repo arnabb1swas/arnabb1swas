@@ -62,9 +62,7 @@
     <img alt="arnabb1swas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arnabb1swas&count_private=true&layout=compact&show_icons=true&theme=tokyonight" />
 <br/>
 <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnabb1swas&langs_count=20&theme=highcontrast&layout=compact&custom_title=Most used languages on GitHub" />
-    </a>
+     <img alt="arnabb1swas's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnabb1swas&langs_count=20&count_private=true&layout=compact&show_icons=true&theme=tokyonightcustom_title=Most used languages on GitHub" />
 <br/>
 </p>
 <p align="center">
