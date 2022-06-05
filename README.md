@@ -63,15 +63,15 @@
     <img alt="arnabb1swas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arnabb1swas&count_private=true&layout=compact&show_icons=true&theme=tokyonight" />
 <br/>
 <br/>
-     <img alt="arnabb1swas's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnabb1swas&langs_count=20&count_private=true&layout=compact&show_icons=true&theme=tokyonight" />
+     <img alt="arnabb1swas's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnabb1swas&count_private=true&langs_count=20&layout=compact&show_icons=true&theme=tokyonight" />
 <br/>
 </p>
 <p align="center">
   <br/>
-    <img title="Arnab Biswas's streak" alt="arnabb1swas's streak" src="https://github-readme-streak-stats.herokuapp.com?user=arnabb1swas&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+    <img title="Arnab Biswas's streak" alt="arnabb1swas's streak" src="https://github-readme-streak-stats.herokuapp.com?user=arnabb1swas&count_private=true&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
   <br/>
   <br/>
-    <img title="Arnab Biswas's streak" alt="arnabb1swas's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=arnabb1swas&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+    <img title="Arnab Biswas's streak" alt="arnabb1swas's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=arnabb1swas&count_private=true&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
   <br/>
 </p>
 
