@@ -80,7 +80,7 @@
 <p align=left>
 
 ## Connect with me:
-<a target="_blank" href = "https://www.linkedin.com/in/itsarnab"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a target="_blank" href = "https://www.linkedin.com/in/arnabb1swas"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a target="_blank" href = "https://www.twitter.com/arnabbiswas_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a target="_blank" href = "https://www.instagram.com/arnabbiswas_"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a target="_blank" href = "https://linktr.ee/arnabbiswas"><img src="https://img.icons8.com/fluent/48/000000/link.png"/></a>
