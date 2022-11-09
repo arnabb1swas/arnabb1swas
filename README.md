@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me
 
 
-- 🔭 I’m currently working as a Backend Dev Intern at **[Toddle](https://github.com/toddle-edu)**
+- 🔭 I’m currently working as a Backend Dev Intern at **[Toddle](https://www.toddleapp.com)**
 
 - 🌱 I’m currently learning **Algorithms.**
 
