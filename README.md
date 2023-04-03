@@ -49,7 +49,7 @@
 
 <br/>
 
-## 📊 My Github Stats
+<!-- ## 📊 My Github Stats
 
 <p align="center">
  <br/>
@@ -66,7 +66,7 @@
   <br/>
     <img title="Arnab Biswas's streak" alt="arnabb1swas's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=arnabb1swas&count_private=true&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
   <br/>
-</p>
+</p> -->
 
 <img align=right alt="Coding" width="400" src="./icon/bg.gif">
 
