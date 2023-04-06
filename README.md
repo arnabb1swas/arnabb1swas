@@ -34,11 +34,7 @@
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a> 
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/heroku.png"/> </a> 
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/48/000000/arduino.png"/> </a> 
 </p>
