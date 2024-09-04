@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me
 
 
-- 🔭 I’m currently working as an Associate Software Engineer at **[Toddle](https://www.toddleapp.com)**
+- 🔭 I’m currently working as an SDE 2 at **[Toddle](https://www.toddleapp.com)**
 
 - 🌱 I’m currently learning **Algorithms.**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **arnabbiswasthewebd@gmail.com**
 
-- ⚡ Fun fact **I play multiplayer games and read Mangas.**
+- ⚡ Fun fact **I play games and read Mangas.**
 
 ## 🚀 Languages and Tools:
 
