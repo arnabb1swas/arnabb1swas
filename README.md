@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="./icon/bg2.gif" height="175px"/></a>
 
 <h1 align=center>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Arnab Biswas</h1>
-<h3 align=center>I'm a passionate Backend Developer from India.</h3>
+<h3 align=center>I'm a passionate Software Developer from India.</h3>
 <img align=right alt="Coding" width="400" src="./icon/sidegif.gif">
 
 ## 🙋‍♂️ About Me
